@@ -1,0 +1,7 @@
+# roles/java/tasks/main.yml
+---
+
+- name: Install Java version OpenJDK 11
+  yum:
+    name: ['java-11-openjdk', 'ant']
+    state: present
