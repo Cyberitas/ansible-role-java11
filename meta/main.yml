@@ -1,5 +1,6 @@
 galaxy_info:
   author: James Dugger
+  role_name: java11
   description: OpenJDK 11 for Linux
   company: Cyberitas Technologies, LLC
 
